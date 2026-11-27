@@ -2,7 +2,7 @@
 
 Game 1.1.0 (v196608). Matched Mac headless captures from the earlier tall-screen-only port, using the same copied test save. The original column disables tall-screen rendering on that build. The game rendered 1920×1080 and 1920×1200; the images were resized proportionally for viewing, not cropped or stretched.
 
-The iPhone Duo column uses screenshots taken on the physical phone with its inner display in landscape, the stock **Match screen** setting, with touch controls visible where enabled. The physical captures use the rebased combined test build, which also has a separate 60 fps patch. Mac renders at a Duo-shaped ratio are not included as device evidence.
+The iPhone Duo column uses screenshots taken on the physical phone with its inner display in landscape and the stock **Match screen** setting. The physical captures use the rebased combined test build, which also has a separate 60 fps patch. Mac renders at a Duo-shaped ratio are not included as device evidence.
 
 ## Arlia field and HUD
 
@@ -22,7 +22,7 @@ The same cave battle room and player character. The corner HUD follows the talle
 
 ## Battle command menu
 
-The paused battle shows the command list and the HUD together. The menu stays centered and gameplay is visible behind it.
+The paused battle shows the command list and the HUD together. The menu stays centered and gameplay is visible behind it. Enemy groups and current HP vary across the captures.
 
 | Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
 | --- | --- | --- |
