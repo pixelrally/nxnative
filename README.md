@@ -12,6 +12,38 @@ Same checkpoint and camera, with more scenery above and below. The field hints a
 | --- | --- | --- |
 | ![16:9 Arlia field and HUD](arlia-16x9.jpg) | ![16:10 Arlia field and HUD](arlia-16x10.jpg) | ![Physical Duo Arlia field and HUD](arlia-duo-device.jpg) |
 
+## Overworld travel HUD outside Arlia
+
+Same stop just outside Arlia, with no additional movement. More terrain is visible above and below; shortcut hints and the regional minimap follow the lower corners. Ambient animation timing varies.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Overworld travel HUD outside Arlia](world-hud-16x9.jpg) | ![16:10 Overworld travel HUD outside Arlia](world-hud-16x10.jpg) | ![Physical Duo Overworld travel HUD outside Arlia](world-hud-duo-device.jpg) |
+
+## Story dialogue: portrait at bottom right
+
+Rena’s “What, Mom?” line in the opening Arlia scene. Her original portrait stays at the lower-right corner while the camera shows more above and below, with no portrait stretching.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Story dialogue: portrait at bottom right](dialogue-right-16x9.jpg) | ![16:10 Story dialogue: portrait at bottom right](dialogue-right-16x10.jpg) | ![Physical Duo Story dialogue: portrait at bottom right](dialogue-right-duo-device.jpg) |
+
+## Story dialogue: portrait at bottom left
+
+Westa’s reply in the same scene. This checks the opposite portrait anchor without resizing the artwork or the text.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Story dialogue: portrait at bottom left](dialogue-left-16x9.jpg) | ![16:10 Story dialogue: portrait at bottom left](dialogue-left-16x10.jpg) | ![Physical Duo Story dialogue: portrait at bottom left](dialogue-left-duo-device.jpg) |
+
+## Guide Map
+
+Same Arlia pin and destination list on the full-screen map. The map viewport shows more vertically and the title, icon legend and footer remain at their respective edges.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Guide Map](guide-map-16x9.jpg) | ![16:10 Guide Map](guide-map-16x10.jpg) | ![Physical Duo Guide Map](guide-map-duo-device.jpg) |
+
 ## Battle HUD in Salva Mines
 
 The same cave battle room and player character. The corner HUD follows the taller edges while the middle of the battle stays at its normal scale. Enemy groups and combat timing vary across the captures.
