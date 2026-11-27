@@ -56,25 +56,25 @@ The blue gradient and blurred backdrop cover the new height; the menu header and
 
 The header and button hints move to the new edges. The optional Modern silhouette extension is not included.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Equipment](equip-16x9.jpg) | ![16:10 Equipment](equip-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Equipment](equip-16x9.jpg) | ![16:10 Equipment](equip-16x10.jpg) | ![Physical Duo Equipment](equip-duo-device.jpg) |
 
 ## Special Arts / Spells
 
 The header, blue gradient and bottom hints adapt independently of the centered content.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Special Arts / Spells](arts-16x9.jpg) | ![16:10 Special Arts / Spells](arts-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Special Arts / Spells](arts-16x9.jpg) | ![16:10 Special Arts / Spells](arts-16x10.jpg) | ![Physical Duo Special Arts / Spells](arts-duo-device.jpg) |
 
 ## Status
 
 The backdrop and controls adapt. This also shows the known stock portrait cutoff; no altered art is used.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Status](status-16x9.jpg) | ![16:10 Status](status-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Status](status-16x9.jpg) | ![16:10 Status](status-16x10.jpg) | ![Physical Duo Status](status-duo-device.jpg) |
 
 ## Camp → System
 
@@ -88,9 +88,9 @@ The full-height gradient remains in place in a Camp submenu.
 
 The centered choices keep their size while the heading and footer follow the taller canvas.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Camp → Settings](settings-16x9.jpg) | ![16:10 Camp → Settings](settings-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Camp → Settings](settings-16x9.jpg) | ![16:10 Camp → Settings](settings-16x10.jpg) | ![Physical Duo Camp → Settings](settings-duo-device.jpg) |
 
 ## Return to Title confirmation
 
