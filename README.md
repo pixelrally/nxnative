@@ -38,7 +38,7 @@ Westa’s reply in the same scene. This checks the opposite portrait anchor with
 
 ## Guide Map
 
-Same Arlia pin and destination list on the full-screen map. The map viewport shows more vertically and the title, icon legend and footer remain at their respective edges.
+Same Arlia pin and destination list on the full-screen map. The map viewport shows more vertically, and the left-side tint now reaches the top and bottom edges without a seam. The map scale and destination list are unchanged. Compare the [earlier MacBook capture](https://raw.githubusercontent.com/pixelrally/nxnative/1932a986233491c3218e977265a9e20788b8d490/guide-map-16x10.jpg) and [earlier Duo capture](https://raw.githubusercontent.com/pixelrally/nxnative/1932a986233491c3218e977265a9e20788b8d490/guide-map-duo-device.jpg).
 
 | Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
 | --- | --- | --- |
