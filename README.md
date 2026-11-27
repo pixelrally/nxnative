@@ -2,7 +2,15 @@
 
 Game 1.1.0 (v196608). Matched Mac headless captures from the earlier tall-screen-only port, using the same copied test save. The original column disables tall-screen rendering on that build. The game rendered 1920×1080 and 1920×1200; the images were resized proportionally for viewing, not cropped or stretched.
 
-Physical iPhone Duo screenshots (1.43:1) are pending. The contributor separately play-tested tall-screen support on both devices. Mac renders at a Duo-shaped ratio are not included as device evidence.
+The iPhone Duo column uses a screenshot taken on the physical phone with its inner display in landscape, the stock **Match screen** setting, and touch controls visible. The physical capture uses the rebased combined test build, which also has a separate 60 fps patch. Mac renders at a Duo-shaped ratio are not included as device evidence.
+
+## Title: Press Any Button
+
+The title scene at all three shapes. The Mac captures and the device capture were taken at different points in the title animation.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 title prompt](press-any-button-16x9.jpg) | ![16:10 title prompt](press-any-button-16x10.jpg) | ![Physical Duo title prompt](press-any-button-duo-device.jpg) |
 
 ## Arlia field and HUD
 
