@@ -14,7 +14,7 @@ The title scene at all three shapes. The Mac captures and the device capture wer
 
 ## Arlia field and HUD
 
-Same checkpoint and camera (the Duo frame shows the temporary area label), with more scenery above and below. The field hints and minimap stay near the bottom.
+Same checkpoint and camera, with more scenery above and below. The field hints and minimap stay near the bottom.
 
 | Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
 | --- | --- | --- |
@@ -48,9 +48,9 @@ The underlying field is dimmed over the entire taller frame and the footer follo
 
 The blue gradient and blurred backdrop cover the new height; the menu header and footer follow the edges.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Camp menu](camp2-16x9.jpg) | ![16:10 Camp menu](camp2-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Camp menu](camp2-16x9.jpg) | ![16:10 Camp menu](camp2-16x10.jpg) | ![Physical Duo Camp menu](camp2-duo-device.jpg) |
 
 ## Equipment
 
@@ -80,9 +80,9 @@ The backdrop and controls adapt. This also shows the known stock portrait cutoff
 
 The full-height gradient remains in place in a Camp submenu.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Camp → System](system-16x9.jpg) | ![16:10 Camp → System](system-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Camp → System](system-16x9.jpg) | ![16:10 Camp → System](system-16x10.jpg) | ![Physical Duo Camp → System](system-duo-device.jpg) |
 
 ## Camp → Settings
 
@@ -96,6 +96,6 @@ The centered choices keep their size while the heading and footer follow the tal
 
 The dialog stays centered and the dark overlay reaches both edges.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Return to Title confirmation](back-title-dialog-16x9.jpg) | ![16:10 Return to Title confirmation](back-title-dialog-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Return to Title confirmation](back-title-dialog-16x9.jpg) | ![16:10 Return to Title confirmation](back-title-dialog-16x10.jpg) | ![Physical Duo Return to Title confirmation](back-title-dialog-duo-device.jpg) |
