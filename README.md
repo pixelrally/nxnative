@@ -12,6 +12,30 @@ Same checkpoint and camera, with more scenery above and below. The field hints a
 | --- | --- | --- |
 | ![16:9 Arlia field and HUD](arlia-16x9.jpg) | ![16:10 Arlia field and HUD](arlia-16x10.jpg) | ![Physical Duo Arlia field and HUD](arlia-duo-device.jpg) |
 
+## Battle HUD in Salva Mines
+
+The same cave battle room and player character. The corner HUD follows the taller edges while the middle of the battle stays at its normal scale. Enemy groups and combat timing vary across the captures.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Battle HUD in Salva Mines](battle-hud-16x9.jpg) | ![16:10 Battle HUD in Salva Mines](battle-hud-16x10.jpg) | ![Physical Duo Battle HUD in Salva Mines](battle-hud-duo-device.jpg) |
+
+## Battle command menu
+
+The paused battle shows the command list and the HUD together. The menu stays centered and gameplay is visible behind it.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 battle command](battle-command-16x9.jpg) | ![16:10 battle command](battle-command-16x10.jpg) | ![Physical Duo battle command](battle-command-duo-device.jpg) |
+
+## Bonus Gauge tutorial
+
+Page one of the same in-battle tutorial. The dimmer reaches the top and bottom, while the tutorial art and text stay centered.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Bonus Gauge tutorial](bonus-gauge-tutorial-16x9.jpg) | ![16:10 Bonus Gauge tutorial](bonus-gauge-tutorial-16x10.jpg) | ![Physical Duo Bonus Gauge tutorial](bonus-gauge-tutorial-duo-device.jpg) |
+
 ## Title menu
 
 The title starfield and planet reach the taller edges without enlarging the logo.
@@ -19,6 +43,14 @@ The title starfield and planet reach the taller edges without enlarging the logo
 | Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
 | --- | --- | --- |
 | ![16:9 Title menu](menu-16x9.jpg) | ![16:10 Title menu](menu-16x10.jpg) | ![Physical Duo Title menu](menu-duo-device.jpg) |
+
+## New Game character selection
+
+Claude selected on the same screen. The portraits and footer are anchored to the taller lower edge without stretching the artwork.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 New Game character selection](new-game-hero-16x9.jpg) | ![16:10 New Game character selection](new-game-hero-16x10.jpg) | ![Physical Duo New Game character selection](new-game-hero-duo-device.jpg) |
 
 ## Title → Load
 
