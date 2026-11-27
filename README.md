@@ -4,14 +4,6 @@ Game 1.1.0 (v196608). Matched Mac headless captures from the earlier tall-screen
 
 The iPhone Duo column uses screenshots taken on the physical phone with its inner display in landscape, the stock **Match screen** setting, with touch controls visible where enabled. The physical captures use the rebased combined test build, which also has a separate 60 fps patch. Mac renders at a Duo-shaped ratio are not included as device evidence.
 
-## Title: Press Any Button
-
-The title scene at all three shapes. The Mac captures and the device capture were taken at different points in the title animation.
-
-| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
-| --- | --- | --- |
-| ![16:9 title prompt](press-any-button-16x9.jpg) | ![16:10 title prompt](press-any-button-16x10.jpg) | ![Physical Duo title prompt](press-any-button-duo-device.jpg) |
-
 ## Arlia field and HUD
 
 Same checkpoint and camera, with more scenery above and below. The field hints and minimap stay near the bottom.
