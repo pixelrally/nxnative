@@ -30,11 +30,11 @@ The title starfield and planet reach the taller edges without enlarging the logo
 
 ## Title → Load
 
-The starfield and blue menu background cover the full view; the save list and button hints stay readable.
+The starfield and blue menu background cover the full view; the save list and button hints stay readable. All three use the same offline test fixture.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Title → Load](load3-16x9.jpg) | ![16:10 Title → Load](load3-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Title → Load](load3-16x9.jpg) | ![16:10 Title → Load](load3-16x10.jpg) | ![Physical Duo Title → Load](load3-duo-device.jpg) |
 
 ## Field → Save
 
