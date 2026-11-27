@@ -14,11 +14,11 @@ The title scene at all three shapes. The Mac captures and the device capture wer
 
 ## Arlia field and HUD
 
-Same checkpoint and camera, with more scenery above and below. The field hints and minimap stay near the bottom.
+Same checkpoint and camera (the Duo frame shows the temporary area label), with more scenery above and below. The field hints and minimap stay near the bottom.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Arlia field and HUD](arlia-16x9.jpg) | ![16:10 Arlia field and HUD](arlia-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Arlia field and HUD](arlia-16x9.jpg) | ![16:10 Arlia field and HUD](arlia-16x10.jpg) | ![Physical Duo Arlia field and HUD](arlia-duo-device.jpg) |
 
 ## Title menu
 
@@ -40,9 +40,9 @@ The starfield and blue menu background cover the full view; the save list and bu
 
 The underlying field is dimmed over the entire taller frame and the footer follows the lower edge.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Field → Save](field-save-16x9.jpg) | ![16:10 Field → Save](field-save-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Field → Save](field-save-16x9.jpg) | ![16:10 Field → Save](field-save-16x10.jpg) | ![Physical Duo Field → Save](field-save-duo-device.jpg) |
 
 ## Camp menu
 
