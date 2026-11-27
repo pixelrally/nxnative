@@ -2,7 +2,7 @@
 
 Game 1.1.0 (v196608). Matched Mac headless captures from the earlier tall-screen-only port, using the same copied test save. The original column disables tall-screen rendering on that build. The game rendered 1920×1080 and 1920×1200; the images were resized proportionally for viewing, not cropped or stretched.
 
-The iPhone Duo column uses a screenshot taken on the physical phone with its inner display in landscape, the stock **Match screen** setting, and touch controls visible. The physical capture uses the rebased combined test build, which also has a separate 60 fps patch. Mac renders at a Duo-shaped ratio are not included as device evidence.
+The iPhone Duo column uses screenshots taken on the physical phone with its inner display in landscape, the stock **Match screen** setting, with touch controls visible where enabled. The physical captures use the rebased combined test build, which also has a separate 60 fps patch. Mac renders at a Duo-shaped ratio are not included as device evidence.
 
 ## Title: Press Any Button
 
@@ -24,9 +24,9 @@ Same checkpoint and camera, with more scenery above and below. The field hints a
 
 The title starfield and planet reach the taller edges without enlarging the logo.
 
-| Original 16:9 | MacBook 16:10 |
-| --- | --- |
-| ![16:9 Title menu](menu-16x9.jpg) | ![16:10 Title menu](menu-16x10.jpg) |
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Title menu](menu-16x9.jpg) | ![16:10 Title menu](menu-16x10.jpg) | ![Physical Duo Title menu](menu-duo-device.jpg) |
 
 ## Title → Load
 
