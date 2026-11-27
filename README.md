@@ -36,6 +36,14 @@ Page one of the same in-battle tutorial. The dimmer reaches the top and bottom, 
 | --- | --- | --- |
 | ![16:9 Bonus Gauge tutorial](bonus-gauge-tutorial-16x9.jpg) | ![16:10 Bonus Gauge tutorial](bonus-gauge-tutorial-16x10.jpg) | ![Physical Duo Bonus Gauge tutorial](bonus-gauge-tutorial-duo-device.jpg) |
 
+## Game Over
+
+The defeat screen extends its black backing to the top and bottom without stretching the lettering or moving the centered Retry menu.
+
+| Original 16:9 | MacBook 16:10 | iPhone Duo 1.43:1 (physical) |
+| --- | --- | --- |
+| ![16:9 Game Over](game-over-16x9.jpg) | ![16:10 Game Over](game-over-16x10.jpg) | ![Physical Duo Game Over](game-over-duo-device.jpg) |
+
 ## Title menu
 
 The title starfield and planet reach the taller edges without enlarging the logo.
